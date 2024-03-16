@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Harinath321/assign3.git/static/css/main.12a1d271.css",
-    "main.js": "/Harinath321/assign3.git/static/js/main.27d9d829.js",
-    "static/js/453.5e560239.chunk.js": "/Harinath321/assign3.git/static/js/453.5e560239.chunk.js",
-    "index.html": "/Harinath321/assign3.git/index.html",
-    "main.12a1d271.css.map": "/Harinath321/assign3.git/static/css/main.12a1d271.css.map",
-    "main.27d9d829.js.map": "/Harinath321/assign3.git/static/js/main.27d9d829.js.map",
-    "453.5e560239.chunk.js.map": "/Harinath321/assign3.git/static/js/453.5e560239.chunk.js.map"
+    "main.css": "/assign3/static/css/main.12a1d271.css",
+    "main.js": "/assign3/static/js/main.d790e22a.js",
+    "static/js/592.5a670743.chunk.js": "/assign3/static/js/592.5a670743.chunk.js",
+    "index.html": "/assign3/index.html",
+    "main.12a1d271.css.map": "/assign3/static/css/main.12a1d271.css.map",
+    "main.d790e22a.js.map": "/assign3/static/js/main.d790e22a.js.map",
+    "592.5a670743.chunk.js.map": "/assign3/static/js/592.5a670743.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.12a1d271.css",
-    "static/js/main.27d9d829.js"
+    "static/js/main.d790e22a.js"
   ]
 }
